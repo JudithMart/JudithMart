@@ -6,9 +6,11 @@
 </h1
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=68c3b7&size=35&lines=Hey!+I'm+Judith)](https://git.io/typing-svg)
+<img width="35%" align="right"   alt="Github" src="https://github.com/JudithMart/JudithMart/blob/main/ImgYo.png"  />
 
 I am a student of computer systems engineering.
-  
+
+ 
 
 <div id="user-content-toc">
   <ul align="center">
@@ -16,7 +18,7 @@ I am a student of computer systems engineering.
   </ul>
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🔭 I’m currently working on I am a student
   
