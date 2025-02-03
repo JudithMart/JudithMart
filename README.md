@@ -65,7 +65,16 @@ I am a student of computer systems engineering.
 </tr>
 </table>
 <!--- stats (end) -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with me</h2></summary>
+  </ul>
+</div>
 
+<p align="center">
+<a href="https://www.instagram.com/lajudimar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aguimartinezg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="HridoyHazard" height="30" width="40" /></a>
+</p>
 
 
 
