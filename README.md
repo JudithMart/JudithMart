@@ -17,7 +17,7 @@ I am a student of computer systems engineering.
   </ul>
 </div>
 
-- 🔭 I’m currently working on I am a student
+- 🔭 I'm currently a student
   
 - 🌱 I’m currently learning Unity & competitive programming. 
   
